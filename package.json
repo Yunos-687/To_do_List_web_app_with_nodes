@@ -1,5 +1,12 @@
 
 {
+  "name":"Myapp",
+  "version":"1.0.0",
+  "description":"a really cool app",
+  "main":"app.js",
+  "scripts": {
+   "start": "node app.js"
+},
   "dependencies": {
     "body-parser": "^1.20.0",
     "ejs": "^3.1.8",
