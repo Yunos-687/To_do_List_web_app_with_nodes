@@ -5,7 +5,7 @@ const _ = require("lodash");
 
 const app =express();
 
-mongoose.connect("mongodb+srv://yunos:list123@cluster0.tz9wl.mongodb.net/DoListDB",{useNewUrlParser:true});
+mongoose.connect("mongodb+srv://youNode:y0uN0d3p%40%24%24@cluster0.dvini.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",{useNewUrlParser:true});
 
 const DoListItemSchema = new mongoose.Schema({
   name:{
